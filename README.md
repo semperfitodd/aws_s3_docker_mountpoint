@@ -1,0 +1,1 @@
+# aws_s3_docker_mountpoint
