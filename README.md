@@ -1,5 +1,5 @@
 # AWS S3 Docker Mountpoint
-
+![docker_mount.png](images%2Fdocker_mount.png)
 This project provides a Dockerfile and instructions to create a container that can mount an Amazon S3 bucket as a filesystem using the new AWS S3 mountpoint feature. It leverages Amazon's latest `mount-s3` tool to enable seamless integration of S3 with applications running inside a Docker container.
 
 ## Requirements
